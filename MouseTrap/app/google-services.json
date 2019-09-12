@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "315054739450",
+    "firebase_url": "https://mousetrap-28cff.firebaseio.com",
+    "project_id": "mousetrap-28cff",
+    "storage_bucket": "mousetrap-28cff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315054739450:android:cf59bc5cd209b216",
+        "android_client_info": {
+          "package_name": "com.example.mousetrap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315054739450-5ovpg87tsmagvda24i2v9p2ulkoouhkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "1:315054739450:android:cf59bc5cd209b216"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315054739450-5ovpg87tsmagvda24i2v9p2ulkoouhkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
